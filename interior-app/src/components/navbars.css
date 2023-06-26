@@ -1,0 +1,28 @@
+.topbar{
+  width: 100%;
+  background-color: black ;
+  position:relative;
+  height:70px;
+  z-index:0;
+}
+.navbar{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height:max-content;
+  background-color: grey;
+  position: relative;
+  top: -30px;
+}
+.carousal{
+ 
+  position: relative;
+  top: -30px;
+}
+.footer{
+  width: 100%;
+  background-color: black ;
+  position:relative;
+  height:100px;
+  z-index:0;
+}
